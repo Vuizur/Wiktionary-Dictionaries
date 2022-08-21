@@ -4,4 +4,4 @@ This repo contains dictionaries extracted from Wiktionary, using kaikki.org/Wikt
 
 For each language, it supports 3 formats: Tabfile, Stardict and Kindle.
 
-Please report bugs. Pull requests for my library extracting them are also welcome (because editing stuff for languages you don't speak is difficult).
+Please report bugs if you find them. Pull requests for my library extracting the dictionary are also welcome, because editing stuff for languages you don't speak is difficult.
